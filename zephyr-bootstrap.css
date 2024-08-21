@@ -223,7 +223,7 @@ body::before {
 
 .title-text {
   font-size: 5em;
-  /* font size to 3 em when medium */
+  /* ! font size to 3 em when medium */
   margin: 0;
   padding: 0;
 }
