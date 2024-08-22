@@ -1,0 +1,11 @@
+MAPBOX API:
+- sizing can be funky when resizing screen.
+- links are found outside the map itself. 
+
+COLOUR:
+- when the quick-access buttons are hovered on, the text colour doesnt change to blue.
+- the dropdown icon (hamburgur menu) is gray instead of white.
+
+OTHER STUFF:
+- not all the elements have functionality; pure demo page.
+
