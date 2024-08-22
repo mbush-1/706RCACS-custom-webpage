@@ -222,10 +222,16 @@ body::before {
 }
 
 .title-text {
-  font-size: 5em;
+  font-size: 4.6em;
   /* ! font size to 3 em when medium */
   margin: 0;
   padding: 0;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
 }
 
 .subtitle-text {
@@ -3250,6 +3256,7 @@ textarea.form-control-lg {
 }
 
 .btn-outline-secondary {
+    color: white;
   --bs-btn-color: #fff;
   --bs-btn-border-color: #fff;
   --bs-btn-hover-color: #3459e6;
